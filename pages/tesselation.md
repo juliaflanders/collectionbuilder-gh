@@ -32,6 +32,7 @@ Here I am testing to see whether I can embed a carousel of images:
 
 {% include index/carousel.html objectid="coll036;coll027;coll031;coll052" %}
 
+Here I am testing to see whether I can embed a gallery that is filtered by keyword:
 
-
+{% include feature/gallery.html heading="All the Ice" gallery-type="image" filter-field="subject" filter-value="ice" %}
 
