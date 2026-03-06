@@ -14,7 +14,6 @@ credits: true
 
 ## Ice
 
-Here I am testing to see whether I can embed a gallery that is filtered by keyword:
+Ice is an amazing patternmaker. It can be transparent, translucent, reflective, opaque, and its crystalline forms are immensely varied. It can stop motion—the shape of a current or a swirl of bubbles—but it also has its own motion of a very different kind, crystals materializing as water changes state from liquid to solid, carrying the story of whether that passage was sudden or gradual. In the spring, when the sun often melts a thin glaze of water during the day, the temperature falls very slowly through the crucial transition stage and the ice unfurls like feathers or starbursts or fern fronds, obeying the logic of its molecular structure. 
 
-{% include feature/gallery.html heading="Images of Ice" gallery-type="image" filter-field="subject" filter-value="ice" %}
-
+{% include feature/image.html objectid="coll018;coll019;coll020;coll021;coll022;coll023;coll024;coll025;coll029" %}
