@@ -1,6 +1,6 @@
 ---
 title: Ice
-layout: page-full-width
+layout: page-narrow
 permalink: /ice.html
 # include CollectionBuilder info at bottom
 credits: true
