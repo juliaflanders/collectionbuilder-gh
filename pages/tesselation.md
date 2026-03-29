@@ -28,7 +28,3 @@ Inorganic forms tesselate when a surface is transected by crystal structures, li
 
 {% include feature/image.html objectid="coll036;coll027;coll031;coll052" %}
 
-Here I am testing to see whether I can embed a carousel of images:
-
-{% include index/carousel.html objectid="coll036;coll027;coll031;coll052" %}
-
