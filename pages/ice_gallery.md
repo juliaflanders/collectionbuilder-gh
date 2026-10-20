@@ -8,7 +8,9 @@ permalink: /ice_gallery.html
 ---
 # Ice Gallery
 
+
 {%- assign items = site.data[site.metadata] | where_exp: 'item', 'item.subject contains "ice"' | sort: "date_range" -%}
+
 <div class="row my-3 py-3">
 {% for item in items %}
 <div class="col-md-4">
